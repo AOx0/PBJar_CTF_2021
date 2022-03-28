@@ -1,8 +1,8 @@
 # PBJar CTF 2021
 
-Mirror write-ups I authored from [https://github.com/idekJT/CTF\_Writeups/][1]
+Mirror of write-ups I authored from [https://github.com/idekJT/CTF\_Writeups/][1]
 
-**Challenges solved**:  27/48
+**Challenges solved**:  27/48 (5 by me)
 
 **Categories**:
 
