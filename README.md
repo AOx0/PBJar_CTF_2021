@@ -2,7 +2,7 @@
 
 Mirror of write-ups I authored from [https://github.com/idekJT/CTF\_Writeups/][1]
 
-**Challenges solved**:  27/48 (5 by me)
+**Challenges solved**:  27/48 (5 by me, or at least 5 I wrote the write-up of)
 
 **Categories**:
 
